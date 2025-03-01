@@ -1,6 +1,6 @@
 # Laravel & Github Actions
 
-THis is my playground for playing with Laravel and Github actions.
+This is my playground for playing with Laravel and Github actions.
 
 
 ## How to check the syntax of your workflow YML file
